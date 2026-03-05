@@ -1,0 +1,3 @@
+# Blocklist personalizada (um dominio por linha)
+# Exemplo:
+# ads.example.com

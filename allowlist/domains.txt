@@ -1,0 +1,3 @@
+# Allowlist personalizada (um dominio por linha)
+# Exemplo:
+# cdn.example.com

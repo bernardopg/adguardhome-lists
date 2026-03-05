@@ -1,0 +1,6 @@
+! AdGuard Home custom filter
+! Repo: https://github.com/bernardopg/adguardhome-lists
+
+! BLOCKLIST
+
+! ALLOWLIST
