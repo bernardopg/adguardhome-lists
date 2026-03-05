@@ -4,3 +4,5 @@
 ! BLOCKLIST
 
 ! ALLOWLIST
+@@||update.code.visualstudio.com^
+@@||code.visualstudio.com^

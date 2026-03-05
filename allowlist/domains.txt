@@ -1,3 +1,7 @@
 # Allowlist personalizada (um dominio por linha)
 # Exemplo:
 # cdn.example.com
+
+# VS Code update/download
+update.code.visualstudio.com
+code.visualstudio.com
